@@ -1,5 +1,19 @@
 #THE CRITICAL CODER
 
+* ###For our presentation we will need you to form six groups.
+
+* ### We will assign each group a situation on a piece of paper.
+
+* ### Discuss the situation within your group and decide on a way to tackle it.
+
+* ### You have three minutes to decide then we will ask each group what they decided and why.
+
+
+
+
+
+#The Critical Coding Manifesto
+
 0.	**The Critical Coder** considers coding to be the most transformative language of our time, shaping the way we *move*, *communicate* and *think*. 
 
 
