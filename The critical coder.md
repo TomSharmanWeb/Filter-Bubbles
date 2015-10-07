@@ -1,2 +1,24 @@
 #The Critical Coder
-0.	**The Critical Coder** considers coding to be the most transformative language of our time, shaping the way we *move*, *communicate* and *think*. 1.	**The Critical Coder** considers any software depended upon to be both a challenge and a risk. The greater the *dependence* on a software the greater the need to *study* and *expose* its inner workings, regardless of ownership or legal provision. 2.	**The Critical Coder** raises *awareness* that with each technological advance our techno-political *literacy* is *challenged*. Promoting the idea that all *information* should be open and *free* is paramount to the critical Coder.3. **The Critical Coder** considers the space between users and software. Through rapid *testing* and *adaptation* the Critical Coder serves to *expose inefficiency, wastefulness* and *exploitation*. 4.	**The Critical Coder** *reflects* upon the *cultural* significance of the web, as well as art, philosophy and psychology when developing software. *Snippets, workarounds* and *frameworks* from these disciplines will be *adopted* and repurposed.5.	**The Critical Coder** knows that code *affects* social and psychological *realms* proportional to that a *user's* *dependency* upon an application. By understanding this, the Critical Coder seeks to *reconstruct ux-constraints* and social interaction through means of *digital excavation*. 
+
+0.	**The Critical Coder** considers coding to be the most transformative language of our time, shaping the way we *move*, *communicate* and *think*. 
+
+
+
+1.	**The Critical Coder** considers any software depended upon to be both a challenge and a risk. The greater the *dependence* on a software the greater the need to *study* and *expose* its inner workings, regardless of ownership or legal provision. 
+
+
+
+2.	**The Critical Coder** raises *awareness* that with each technological advance our techno-political *literacy* is *challenged*. Promoting the idea that all *information* should be open and *free* is paramount to the critical Coder.
+
+
+3. **The Critical Coder** considers the space between users and software. Through continuous rapid *testing* and *deployment* the Critical Coder serves to *expose inefficiency, wastefulness* and *exploitation*.
+ 
+
+
+
+4.	**The Critical Coder** *reflects* upon the *cultural* significance of the web, as well as art, philosophy and psychology when developing software. *Snippets, workarounds* and *frameworks* from these disciplines should be *adopted* and repurposed.
+
+
+
+
+5.	**The Critical Coder** knows that code *affects* social and psychological *realms* proportional to that a *user's* *dependency* upon an application. By understanding this, the Critical Coder seeks to *reconstruct ux-constraints* and social interaction through means of *digital excavation*. 
